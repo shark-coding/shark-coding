@@ -4,13 +4,11 @@
     
 ## 🙇‍♀️ Introduce
 
-👋 Hello! I'm an aspiring developer who strives for continuous growth and learning.  
-After working in administrative support, I took on a new challenge in the IT field and began transitioning my career.  
+👋 안녕하세요! 저는 끊임없는 성장과 학습을 추구하는 야심찬 개발자입니다. 경영지원팀에서 근무한 후, IT분야에서 새로운 도전을 시작하며 커리어 전환을 시작했습니다.  
 
-💡 I'm currently focusing on backend development, mainly using Spring Boot and Java, as I carve out my own path.  
-I'm not afraid to explore new technologies and view failures as valuable learning opportunities to grow every day.  
+💡 현재는 Spring Boot와 Java를 주로 사용하는 백엔드 개발에 집중하며 저만의 길을 개척하고 있습니다. 새로운 기술을 탐구하는 것을 두려워하지 않으며, 실패를 매일 성장할 수 있는 귀중한 배움의 기회로 여기고 있습니다.
 
-🌱 I consistently share my learning and project experiences on my blog, hoping that my small steps can help someone else along the way.
+🌱 저는 블로그를 통해 제가 배우고 경험한 프로젝트들을 꾸준히 공유하며, 제 작은 발걸음이 다른 누군가에게 도움이 되기를 바랍니다.
 
 <a></a>
 
